@@ -34,7 +34,7 @@ function Navbar() {
           <div id="links">
             <Link
               className="text-xl hover:text-rose-500 font-semibold"
-              to="/Addpets"
+              to="/Addpet"
             >
               Add pet
             </Link>
